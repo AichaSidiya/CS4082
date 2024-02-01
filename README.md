@@ -1,5 +1,6 @@
 # CS4082
-Machine Learning
+
+## Machine Learning
 
 # Course Overview
 
